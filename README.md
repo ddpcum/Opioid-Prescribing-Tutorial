@@ -2,19 +2,21 @@
 
 This E-learning module is created in a way to assess knowledge and attitude over prescription of Opiods among Healthcare workers in Pusat Perubatan Universiti Malaya as we can take measurements needed to improve knowledge and attitude towards Opioid prescription in cancer pain management.
 
-Which is not an element of the WHO approach to opioid prescribing?
+Which is not an element of the WHO approach to opioid prescribing?  
+
 [( )] by the mouth
 [(X)] by injection
-[( )] by the clock
 [( )] by the ladder
+[( )] by the clock
 
-Which of the following is the least common when using opioids in cancer pain?
 
-[( )] Constipation
-[( )] Tolerance
-[( )] Mild drowsiness
-[( )] Nausea or vomiting on initiation
-[(X)] Constipation
+Which is the least commonly associated with opioid treatment of cancer pain?
+
+[( )] constipation 
+[(X)] addiction
+[( )] tolerance
+[( )] mild drowsiness
+[( )] nausea/vomiting (self-limiting)
 
 
 # Introduction
