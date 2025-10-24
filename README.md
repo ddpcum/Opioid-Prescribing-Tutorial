@@ -8,6 +8,15 @@ Which is not an element of the WHO approach to opioid prescribing?
 [( )] by the clock
 [( )] by the ladder
 
+Which of the following is the least common when using opioids in cancer pain?
+
+[( )] Constipation
+[( )] Tolerance
+[( )] Mild drowsiness
+[( )] Nausea or vomiting on initiation
+[(X)] Constipation
+
+
 # Introduction
 
 Cancer accounted for over 10% of all medically-certified deaths in Malaysia, in 2021.
