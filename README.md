@@ -30,8 +30,6 @@ Thus pain should be routinely assessed at regular interval as the 5th vital sign
 
 We can do pain scoring by using pain assessment tool that is recommended for use in our hospitals is the Ministry of Health (MOH) pain scale, a scale that combines NRS, the VAS and faces scale for a more comprehensive assessment.
 
-![alt text](<Picture 3.png>)
-
 <img width="631" height="170" alt="Picture 3-1" src="https://github.com/user-attachments/assets/d2096733-fd89-4bbd-a369-6ca34a20b0f5" />
 
 ## Approach to Pain Management
@@ -91,8 +89,6 @@ It is essential to monitor the patient’s response to the medication while mini
 - Education on the use of these medications should be given including effects and AEs.
 
 ## Analgesics Ladder
-
-![alt text](<Picture 1-1.png>)
 
 <img width="430" height="301" alt="Picture 1-1" src="https://github.com/user-attachments/assets/281f4df0-1090-4b29-9f2d-c9b904b8bb3b" />
 
@@ -170,8 +166,6 @@ Peak analgesic effect:
 - IM / SC: 30 minutes 
 - IV: 5 minutes
 
-![alt text](<Picture 2.png>)
-
 <img width="1133" height="445" alt="Picture 2" src="https://github.com/user-attachments/assets/93eb3145-9521-40c1-9112-e029da9a56c6" />
 
 ## Opioid Initiation and Titration
@@ -208,8 +202,6 @@ What will be his new requirement for adequate pain control?
 [( )] 10 mg / 4 hourly
 
 ## Opioid Conversion
-
-![alt text](<Picture 4-1.png>)
 
 <img width="1204" height="645" alt="Picture 4-1" src="https://github.com/user-attachments/assets/67a22360-a9a3-434b-8ffa-0518530dc5bf" />
 
