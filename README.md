@@ -18,6 +18,12 @@ Which is the least commonly associated with opioid treatment of cancer pain?
 [( )] mild drowsiness
 [( )] nausea/vomiting (self-limiting)
 
+How many percent of patients with cancer develop moderate to severe pain at some point of time?
+
+[( )] 10 %
+[( )] 90 %
+[(X)] 30-40 %
+[( )] 70 %
 
 # Introduction
 
@@ -25,9 +31,24 @@ Cancer accounted for over 10% of all medically-certified deaths in Malaysia, in 
 
 For those living with cancer, pain is a common and distressing symptom that affects their quality of life.
 
+Which is the least commonly associated with opioid treatment of cancer pain?
+
+[( )] constipation 
+[(X)] addiction
+[( )] tolerance
+[( )] mild drowsiness
+[( )] nausea/vomiting (self-limiting)
+
+
 Pain is defined as “an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage”
 
 Cancer pain or cancer-related pain is pain experienced by patients with cancer due to cancer itself or its treatment
+
+some qs
+
+[( )] fdsfdsfsdf
+[( )] dkfkldsjf
+[(X)] Ketoprofen
 
 Vital signs are not the most reliable indicator for a person’s pain score. Patient’s self-report is the gold standard in the measurement of pain score.
 
@@ -37,6 +58,7 @@ The main barriers to effective pain control in Malaysia relate to physicians’ 
 - 38% were worried about legal issues.
 
 Poor pain management in patients is due to
+
 1. Ignorance 
 2. Inexperience 
 3. Overwork 
@@ -208,6 +230,31 @@ Once pain control is optimised, may consider switching to SR formulation
 Long-term use of opioids must not be abruptly discontinued to avoid withdrawal.
 
 Tapering opioid therapy must be conducted in a stepwise fashion, involving patients throughout the process.
+
+![opioidconversions](img/conversions.png)
+
+## Example: morphine infusion to fentanyl patch
+
+A patient with malignant bowel obstruction has been initiated on an intravenous morphine infusion and titrated to a total dose of 60 mg / d. He wishes to return home for end of life care and will require a fentanyl patch. The diagram below illustrates the conversion.
+
+![opioidconversions](img/morphinetofentanyl.png)
+
+**Another example**: A patient on an IV infusion of morphine, running at 30 mg / d requires conversion to a fentanyl patch. As a first step you convert to oral morphine daily dose and obtain:
+
+[( )] 20 mg / d
+[( )] 50 mg / d
+[(X)] 60 mg / d
+[( )] 10 mg / d
+
+In the second step you convert from this oral morphine daily dose to fentanyl patch and obtain:
+
+[( )] 12 mcg / h
+[(X)] 25 mcg / h
+[( )] 50 mcg / h
+[( )] 37 mcg / h
+
+
+
 
 ## Trivia 1
 
