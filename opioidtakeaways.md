@@ -8,14 +8,13 @@ repository: https://github.com/ddpcum/Opioid-Prescribing-Tutorial
 
 -->
 
-
 # Opioids in Cancer Pain
 
 Pain is an important concern among patients living with cancer and seriously affects quality of life. The principles of pain control in cancer are well established and guidelines are available such as the [Malaysian Cancer Pain Clinical Practice Guideline](https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition%29_8_8_24.pdf) 
 
 This short module highlights 10 important points about opioid prescribing in cancer pain in the form of multiple choice questions.
 
-- Cancer pain is common and frequently uncrecognised.
+- Cancer pain is common and frequently unrecognised.
 - Proper assessment is essential
 - The WHO analgesic ladder guides treatment
 - Oral morphine is the preferred opioid in moderate to severe pain among **patients with cancer**
@@ -55,7 +54,7 @@ Which is the most common concern among physicians?
 [( )] Concerns about legality
 [(x)] Lack of knowledge
 ***
-In one Malaysian [study](https://karger.com/ocl/article-abstract/74/Suppl.%201/24/238162/Improving-Cancer-Pain-Management-in-Malaysia?redirectedFrom=fulltext) 46% felt they lacked knowledge, 40% were concerned about addicition and 38% were concerned about legal issues.
+In one Malaysian [study](https://karger.com/ocl/article-abstract/74/Suppl.%201/24/238162/Improving-Cancer-Pain-Management-in-Malaysia?redirectedFrom=fulltext) 46% felt they lacked knowledge, 40% were concerned about addiction and 38% were concerned about legal issues.
 ***
 
 Which is the most common concern among patients?
@@ -69,7 +68,7 @@ In the same study 62% felt opioids were only for terminal cases, 54% feared adve
 
 ## Pain assessment
 
-Pain assessment is an imortant part of pain management. Several tools are available for different circumstances. Identifying the correct tool is a crucial step and familiarity with tools essential.
+Pain assessment is an important part of pain management. Several tools are available for different circumstances. Identifying the correct tool is a crucial step and familiarity with tools essential.
 
 Match the situation to the most appropriate pain assessment instrument.
 
@@ -110,7 +109,7 @@ Which statement comparing morphine and tramadol is **NOT** true?
 The dosing schedule for tramadol does **NOT** include the option for additional doses (PRN) in addition to the regular doses.
 ***
 
-## Oral morphine is the first line
+## Oral morphine as first line opioid
 
 Which is **NOT** a consideration in favour of using oral syrup morphine?
 
