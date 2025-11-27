@@ -186,7 +186,7 @@ Which matching of mechanism with adjuvant medication is **NOT** correct?
 Match the intervention with its description:
 
 [[Mindfulness] (Dignity therapy) (Cognitive behaviour therapy) (Logotherapy)]
-[    ( )           ( )             (X)     ( )  ]  A pyschotherapy which aims to challenge unhelpful and irrational thoughts and beliefs
+[    ( )           ( )             (X)     ( )  ]  A psychotherapy which aims to challenge unhelpful and irrational thoughts and beliefs
 [    (X)           ( )             ( )     ( )  ]  A psychotherapy focusing on paying attention on purpose in the moment 
 [    ( )           (X)             ( )     ( )  ]  A psychotherapy encouraging patients to talk about their lives and create a "legacy" document   
 [    ( )           ( )             ( )     (X)  ]  A psychotherapy focusing on a search for meaning  
@@ -211,3 +211,5 @@ The following are reasonable post discharge plans for patients commenced on oral
 [(x)] Aiming to taper and discontinue morphine prior to discharge
 [( )] Telehealth follow up
 [( )] Referral to nearby Klinik Kesihatan using the official referral form
+
+> Please give your feedback through this [form](https://docs.google.com/forms/d/e/1FAIpQLSdEmvu_iszK6kUKRRTG_chKS6KYrnqbEudoNWScKDj9-Nkehw/viewform?usp=dialog) and consider repeating the questionnaire to assess your progress.
