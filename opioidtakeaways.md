@@ -1,9 +1,7 @@
 
 # Opioids in cancer pain
 
-- Pain is an important concern among patients living with cancer and seriously affects quality of life. 
-- Uncontrolled pain is associated with limited activities in daily life, negative emotion, poor sleep and spiritual distress.
-- The principles of pain control in cancer are well established and guidelines are available such as the [Malaysian Cancer Pain Clinical Practice Guideline](https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition%29_8_8_24.pdf) 
+Pain is an important concern among patients living with cancer and seriously affects quality of life. The principles of pain control in cancer are well established and guidelines are available such as the [Malaysian Cancer Pain Clinical Practice Guideline](https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition%29_8_8_24.pdf) 
 
 This short module highlights 10 important points about opioid prescribing in cancer pain in the form of multiple choice questions.
 
