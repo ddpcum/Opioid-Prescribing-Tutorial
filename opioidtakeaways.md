@@ -1,4 +1,6 @@
 <!--
+author: Mohamad Firdaus Bin Barakath; David Paul Capelle
+email: david.capelle@um.edu.my
 logo: ./img/poppy-svgrepo-com.svg
 icon: ./img/poppy-svgrepo-com.svg
 
