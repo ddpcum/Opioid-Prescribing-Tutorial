@@ -18,6 +18,8 @@ This short module highlights 10 important points about opioid prescribing in can
 
 Your answers are not recorded and the purpose of this module is purely educational.
 
+Please navigate the pages of this module using the page counter below or <kbd>→</kbd> and <kbd>←</kbd> keys.
+
 > The information presented in this module is meant for educational purposes and should not be used to diagnose or treat any medical condition nor should it substitute for medical advice from a qualified healthcare professional.
 
 
@@ -125,10 +127,10 @@ For the commonly used starting dose of aqueous morphine 5 mg Q4H (assuming norma
 
 A patient on aqueous morphine 10 mg Q4H has been found to require on average 3 breakthrough doses per day over the past week. Which adjustment to his dosing is appropriate?
 
-[( )] aqueous morphine 20 mg Q4H and 10 mg PRN
-[( )] aqueous morphine 10 mg Q4H and 15 mg PRN
-[(x)] aqueous morphine 15 mg Q4H and 15 mg PRN
-[( )] aqueous morphine 20 mg Q4H and 20 mg PRN
+[( )] Aqueous morphine 20 mg Q4H and 10 mg PRN
+[( )] Aqueous morphine 10 mg Q4H and 15 mg PRN
+[(x)] Aqueous morphine 15 mg Q4H and 15 mg PRN
+[( )] Aqueous morphine 20 mg Q4H and 20 mg PRN
 ***
 **Calculation**:
 
@@ -148,26 +150,26 @@ Do not forget to adjust the PRN dose according to the regular dose, hence the ne
 
 Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
 
-[(x)] avoid using opioids
-[( )] increase dosing interval
-[( )] reduce dosage
-[( )] arrange close monitoring for adverse effects
+[(x)] Avoid using opioids
+[( )] Increase dosing interval
+[( )] Reduce dosage
+[( )] Arrange close monitoring for adverse effects
 
 
 Which strong opioid is comparatively **least** likely to cause adverse effects in advanced renal impairment?
 
-[(x)] fentanyl
-[( )] oxycodone
-[( )] morphine
-[( )] hydromorphone
+[(x)] Fentanyl
+[( )] Oxycodone
+[( )] Morphine
+[( )] Hydromorphone
 
 ## Adjuvant medications
 Which matching of mechanism with adjuvant medication is **NOT** correct?
 
-[( )] spinal cord edema and corticosteroid
-[( )] nerve damage and gabapentin
-[( )] smooth muscle spasm and hyoscine butylbromide
-[(X)] chemotherapy-related neuropathy and benzodiazepine
+[( )] Spinal cord edema and corticosteroid
+[( )] Nerve damage and gabapentin
+[( )] Smooth muscle spasm and hyoscine butylbromide
+[(X)] Chemotherapy-related neuropathy and benzodiazepine
 
 
 ## Psychoeducation, psychological and spiritual support
@@ -196,7 +198,7 @@ Which scenario least warrants referral to specialist palliative care?
 
 The following are reasonable post discharge plans for patients commenced on oral morphine in hospital and discharged to their own home, except:
 
-[( )] referral to hospice service in community
-[(x)] aiming to taper and discontinue morphine prior to discharge
-[( )] telehealth follow up
-[( )] referral to nearby Klinik Kesihatan using the official referral form
+[( )] Referral to hospice service in community
+[(x)] Aiming to taper and discontinue morphine prior to discharge
+[( )] Telehealth follow up
+[( )] Referral to nearby Klinik Kesihatan using the official referral form
