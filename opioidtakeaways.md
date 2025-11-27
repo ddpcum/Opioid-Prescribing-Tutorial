@@ -3,7 +3,7 @@
 
 - Pain is an important concern among patients living with cancer and seriously affects quality of life. 
 - Uncontrolled pain is associated with limited activities in daily life, negative emotion, poor sleep and spiritual distress.
-- The principles of pain control in cancer are well established and guidelines are available such as the [Malaysian Cancer Pain Clinical Practice Guideline](https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition)_8_8_24.pdf) 
+- The principles of pain control in cancer are well established and guidelines are available such as the [Malaysian Cancer Pain Clinical Practice Guideline](https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition%29_8_8_24.pdf) 
 
 This short module highlights 10 important points about opioid prescribing in cancer pain in the form of multiple choice questions.
 
@@ -72,7 +72,7 @@ Match the situation to the most appropriate pain assessment instrument.
 
 ## WHO ladder
 
-According to the WHO analgesic ladder which combination of analgesics is not recommended.
+According to the WHO analgesic ladder which combination of analgesics is **NOT** recommended.
 
 [( )] Morphine, paracetamol
 [( )] Fentanyl patch and gabapentin tablet
@@ -80,7 +80,7 @@ According to the WHO analgesic ladder which combination of analgesics is not rec
 [(x)] Fentanyl patch and oral tramadol
 
 
-Which statement about the application of the WHO analgesic ladder in palliative care is not true?
+Which statement about the application of the WHO analgesic ladder in palliative care is **NOT** true?
 
 [( )] Analgesics should be given orally when possible.
 [( )] Analgesics should be given at fixed intervals.
@@ -90,19 +90,19 @@ Which statement about the application of the WHO analgesic ladder in palliative 
 Analgesic treatment requires regular review including reduction or discontinuation of a drug for example when the underlying cause of the pain has resolved.
 ***
 
-Which statement comparing morphine and tramadol is not true?
+Which statement comparing morphine and tramadol is **NOT** true?
 
 [( )] Both exhibit typical opioid adverse effects such as nausea, dizziness and dry mouth.
 [( )] Both can be combined with paracetamol for better pain relief.
 [(X)] Both can be given according to regular schedule and when needed (PRN) up to every hour.
 [( )] Compared with morphine tramadol may act through more pharmacodynamic mechanisms.
 ***
-The dosing schedule for tramadol does not include the option for additional doses (PRN) in addition to the regular doses.
+The dosing schedule for tramadol does **NOT** include the option for additional doses (PRN) in addition to the regular doses.
 ***
 
 ## Oral morphine is the first line
 
-Which is not a consideration in favour of using oral syrup morphine?
+Which is **NOT** a consideration in favour of using oral syrup morphine?
 
 [( )] Lower risk of excessive drowsiness compared to injectable morphine
 [( )] More flexibility in dose titration compared to tablet dosing
@@ -118,7 +118,7 @@ The standard dosing interval for aqueous morphine is 4-hourly whereas modified r
 A single dose of rescue analgesia (PRN) should be what fraction of the total daily opioid dose usually?
 
 [( )] 25 %
-[(x)] 1/6 to 1/12
+[(x)] $\frac{1}{12}$ to $\frac{1}{6}$
 [( )] 50 %
 [( )] 5 %
 ***
@@ -148,7 +148,7 @@ Do not forget to adjust the PRN dose according to the regular dose, hence the ne
 ## Caution in liver and kidney impairment
 
 
-Which is **not** a recommendation in preventing adverse effects in liver and kidney impairment?
+Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
 
 [(x)] avoid using opioids
 [( )] increase dosing interval
@@ -156,7 +156,7 @@ Which is **not** a recommendation in preventing adverse effects in liver and kid
 [( )] arrange close monitoring for adverse effects
 
 
-Which strong opioid is comparatively least likely to cause adverse effects in advanced renal impairment?
+Which strong opioid is comparatively **least** likely to cause adverse effects in advanced renal impairment?
 
 [(x)] fentanyl
 [( )] oxycodone
@@ -164,7 +164,7 @@ Which strong opioid is comparatively least likely to cause adverse effects in ad
 [( )] hydromorphone
 
 ## Adjuvant medications
-The following are recognized mechanisms matching mechanism and correct adjuvant except:
+Which matching of mechanism with adjuvant medication is **NOT** correct?
 
 [( )] spinal cord edema and corticosteroid
 [( )] nerve damage and gabapentin
