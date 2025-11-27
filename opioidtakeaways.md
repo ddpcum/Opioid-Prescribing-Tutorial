@@ -1,12 +1,31 @@
-<!-- # Key points in managing cancer pain
 
-This short module gives a brief overview of ten important aspects in managing cancer pain.
+# Opioids in cancer pain
 
-These points highlight the 1 -->
+- Pain is an important concern among patients living with cancer and seriously affects quality of life. 
+- Uncontrolled pain is associated with limited activities in daily life, negative emotion, poor sleep and spiritual distress.
+- The principles of pain control in cancer are well established and guidelines are available such as the [Malaysian Cancer Pain Clinical Practice Guideline](https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition)_8_8_24.pdf) 
+
+This short module highlights 10 important points about opioid prescribing in cancer pain in the form of multiple choice questions.
+
+- Cancer pain is common and frequently uncrecognised.
+- Proper assessment is essential
+- The WHO analgesic ladder guides treatment
+- Oral morphine is the preferred opioid in moderate to severe pain among **patients with cancer**
+- Rescue analgesics are an important element of pain control
+- Caution is required in renal and hepatic impairment
+- Adjuvant medications need to be considered according
+- Non-pharmacological interventions need to be considered
+- Specialist referral is needed when pain control is not achieved
+- Follow up needs to be arranged
+
+Your answers are not recorded and the purpose of this module is purely educational.
+
+> The information presented in this module is meant for educational purposes and should not be used to diagnose or treat any medical condition nor should it substitute for medical advice from a qualified healthcare professional.
+
 
 ## Prevalence of pain
 
-How common is cancer pain generally?.
+How common is cancer pain generally?
 
 [( )] 90% of patients on diagnosis
 [( )] 10% during anticancer treatment
@@ -77,7 +96,9 @@ Which statement comparing morphine and tramadol is not true?
 [( )] Both can be combined with paracetamol for better pain relief.
 [(X)] Both can be given according to regular schedule and when needed (PRN) up to every hour.
 [( )] Compared with morphine tramadol may act through more pharmacodynamic mechanisms.
-
+***
+The dosing schedule for tramadol does not include the option for additional doses (PRN) in addition to the regular doses.
+***
 
 ## Oral morphine is the first line
 
@@ -87,17 +108,41 @@ Which is not a consideration in favour of using oral syrup morphine?
 [( )] More flexibility in dose titration compared to tablet dosing
 [( )] Lower cost due to extemporaneous compounding
 [(X)] Less frequent dosing compared with modified release morphine tablets
-
+***
+The standard dosing interval for aqueous morphine is 4-hourly whereas modified release morphine tablets are given 12-hourly.
+***
 
 
 ## Rescue analgesia
 
-A single dose of rescue analgesia should be what fraction of the total daily opioid dose usually?
+A single dose of rescue analgesia (PRN) should be what fraction of the total daily opioid dose usually?
 
 [( )] 25 %
-[(x)] 1/6 to 1/10
+[(x)] 1/6 to 1/12
 [( )] 50 %
 [( )] 5 %
+***
+For the commonly used starting dose of aqueous morphine 5 mg Q4H (assuming normal kidney and liver function in an opioid naive patient) a dose of 5 mg aqueous morphine should be prescribed.
+***
+
+A patient on aqueous morphine 10 mg Q4H has been found to require on average 3 breakthrough doses per day over the past week. Which adjustment to his dosing is appropriate?
+
+[( )] aqueous morphine 20 mg Q4H and 10 mg PRN
+[( )] aqueous morphine 10 mg Q4H and 15 mg PRN
+[(x)] aqueous morphine 15 mg Q4H and 15 mg PRN
+[( )] aqueous morphine 20 mg Q4H and 20 mg PRN
+***
+**Calculation**:
+
+
+Previous regular dose + total of PRN doses required = **New total daily dose**
+
+60 mg (15 mg Q4H) + 30 mg (10 mg three times) = 90 mg per day (15 mg Q4H)
+
+Do not forget to adjust the PRN dose according to the regular dose, hence the new prescription is:
+
+**aqueous morphine 15 mg Q4H and 15 mg PRN**
+***
 
 
 ## Caution in liver and kidney impairment
